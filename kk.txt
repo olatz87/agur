@@ -6,3 +6,5 @@ kkkkk
 Commit aldatzen ikasten
 
 master branchean aldatzen
+
+Clonearen aldaketak ikusten
