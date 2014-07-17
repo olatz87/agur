@@ -5,6 +5,9 @@ kkkkk
 
 Commit aldatzen ikasten
 
+Eta orain branchekin!
+Bigarren ezaugarria
 master branchean aldatzen
 
 Clonearen aldaketak ikusten
+Pull agindua probatzen
